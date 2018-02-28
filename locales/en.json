@@ -5,5 +5,9 @@
 	"adresse": "Address",
 	"nom": "Last name",
 	"prenom": "First name",
-	"telephone": "Phone"
+	"telephone": "Phone",
+	"modifier": "modify",
+	"ajouter": "add",
+	"langue": "FR",
+	"langueLien": "fr"
 }

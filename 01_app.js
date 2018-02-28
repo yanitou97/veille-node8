@@ -52,7 +52,7 @@ app.get('/:local(en|fr)', function(req, res) {
 	res.cookie('langueChoisie', req.params.local)
 	res.setLocale(req.params.local)
 	console.log(res.__('courriel'))
-	res.render('accueil.ejs')
+	res.redirect(req.get('referer'))
 })
 //////////////////////////////////////////
 app.get('/', function (req, res) {
@@ -60,8 +60,6 @@ app.get('/', function (req, res) {
  res.render('accueil.ejs')  
  
   });
-
-
 
 //////////////////////////////////////////  Route Adresse
 app.get('/adresse', function (req, res) {

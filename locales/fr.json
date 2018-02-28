@@ -7,5 +7,7 @@
 	"prenom": "Prenom",
 	"telephone": "Telephone",
 	"modifier": "Modifier",
-	"ajouter": "Ajouter"
+	"ajouter": "Ajouter",
+	"langue": "EN",
+	"langueLien": "en"
 }
