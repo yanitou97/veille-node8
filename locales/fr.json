@@ -5,5 +5,7 @@
 	"adresse": "Adresse",
 	"nom": "Nom",
 	"prenom": "Prenom",
-	"telephone": "Telephone"
+	"telephone": "Telephone",
+	"modifier": "Modifier",
+	"ajouter": "Ajouter"
 }
