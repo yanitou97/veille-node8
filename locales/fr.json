@@ -2,5 +2,8 @@
 	"courriel": "Courriel",
 	"accueil": "Accueil",
 	"vider": "Vider",
-	"adresse": "Adresse"
+	"adresse": "Adresse",
+	"nom": "Nom",
+	"prenom": "Prenom",
+	"telephone": "Telephone"
 }
